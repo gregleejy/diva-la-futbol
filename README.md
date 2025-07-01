@@ -51,4 +51,4 @@ Update live scores here:
 
 ## 📄 License
 
-This project is for educational and demonstration purposes.
+This project is used for SMU Football Club's annual Diva La Futbol tournament.
