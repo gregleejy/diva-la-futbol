@@ -1,6 +1,6 @@
-# Diva La Futbol
+# Diva La Futbol 2025 Website
 
-**Diva La Futbol** is a modern football website for tracking matches, sharing live updates, and engaging fans. The project combines **HTML**, **CSS**, and **JavaScript** on the frontend, with **Firebase** for real-time data management.
+**Diva La Futbol** is an annual women's football tournament organised by SMU Football. This repository contains a modern football website for tracking matches, sharing live updates, and engaging fans. The project combines **HTML**, **CSS**, and **JavaScript** on the frontend, with **Firebase** for real-time data management.
 
 ---
 
