@@ -46,6 +46,7 @@ View the website here:
 
 Update live scores here:
 [Administrator Link](https://gregleejy.github.io/diva-la-futbol/update)
+
 ---
 
 ## 📄 License
